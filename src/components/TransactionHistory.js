@@ -1,4 +1,3 @@
-import react from 'react';
 import css from './Transactions.module.css';
 
 
